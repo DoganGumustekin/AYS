@@ -8,6 +8,6 @@ namespace Business.Constans
 {
     public static class Messages
     {
-
+        
     }
 }
